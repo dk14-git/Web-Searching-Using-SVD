@@ -15,5 +15,5 @@ on the web, but they return a long list of search results, ranked by
 their relevancies to the given query. Web users have to go through
 the list and examine the titles and (short) snippets sequentially
 to identify their required results. In this paper, we present how
-usage of Singular Value Decomposition (SVI)) is a very good
+usage of Singular Value Decomposition (SVD)) is a very good
 solution for search results clustering.
